@@ -174,13 +174,11 @@ function moonPhaseBuildWidget(){
 						 '		<h3>Moonset</h3><br>' + 
 						 '		<div class="moonphases_set_time" style="width: 95px;">06<span>:</span>18</div>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'wide') {
 		strWidgetCode =  '<div class="moonphases_wide">' + 
 						 '	<div class="moonphases_logo">' + 
-						 '		<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '  </div>' + 
 						 '	<div class="moonphases_phase">' + 
 						 '		<h2 class="moonphases_date_text">Mon 2nd Feb</h2>' + 
@@ -202,7 +200,6 @@ function moonPhaseBuildWidget(){
 	else if (strWidget == 'thin') {
 		strWidgetCode =  '<div class="moonphases_thin">' + 
 						 '	<div class="moonphases_logo_small">' + 
-						 '		<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '  </div>' + 
 						 '	<div class="moonphases_phase">' + 
 						 '		<h2 class="moonphases_date_text">Mon 2nd Feb</h2>' + 
@@ -230,7 +227,6 @@ function moonPhaseBuildWidget(){
 						 '		<h3>Moonset</h3><br>' + 
 						 '		<div class="moonphases_set_time" style="width: 95px;">06<span>:</span>18</div>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'times-nodate') {
@@ -242,7 +238,6 @@ function moonPhaseBuildWidget(){
 						 '		<h3>Moonset</h3><br>' + 
 						 '		<div class="moonphases_set_time" style="width: 95px;">06<span>:</span>18</div>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'small') {
@@ -255,7 +250,6 @@ function moonPhaseBuildWidget(){
 						 '		<h2 class="moonphases_text">Full Moon</h2>' + 
 						 '		<p class="moonphases_illum_text">99% / 0.5</p>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'small-nodate') {
@@ -267,7 +261,6 @@ function moonPhaseBuildWidget(){
 						 '		<h2 class="moonphases_text">Full Moon</h2>' + 
 						 '		<p class="moonphases_illum_text">99% / 0.5</p>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'tiny') {
@@ -279,7 +272,6 @@ function moonPhaseBuildWidget(){
 						 '		</a>' + 
 						 '		<h2 class="moonphases_text">Full Moon</h2>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'tiny-nodate') {
@@ -290,7 +282,6 @@ function moonPhaseBuildWidget(){
 						 '		</a>' + 
 						 '		<h2 class="moonphases_text">Full Moon</h2>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'tiny-times') {
@@ -303,7 +294,6 @@ function moonPhaseBuildWidget(){
 						 '		<h3>Moonset</h3><br>' + 
 						 '		<div class="moonphases_set_time_tiny" style="width: 80px;">06<span>:</span>18</div>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else if (strWidget == 'tiny-times-nodate') {
@@ -315,7 +305,6 @@ function moonPhaseBuildWidget(){
 						 '		<h3>Moonset</h3><br>' + 
 						 '		<div class="moonphases_set_time_tiny" style="width: 80px;">06<span>:</span>18</div>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	else {
@@ -329,7 +318,6 @@ function moonPhaseBuildWidget(){
 						 '		<h2 class="moonphases_text">Full Moon</h2>' + 
 						 '		<p class="moonphases_illum_text">99% / 0.5</p>' + 
 						 '	</div>' + 
-						 '<p class="moonphases_foot"><a href="https://moonphases.co.uk/">MoonPhases.co.uk</a></p>' + 
 						 '</div>';
 	}
 	
